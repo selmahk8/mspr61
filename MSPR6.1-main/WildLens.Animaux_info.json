@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "6613b823a330b86684c7ebc0"
+  },
+  "Espèce": "Castor",
+  "Description": "Le castor d’Europe, appelé également le castor commun ou le castor d’Eurasie, est un mammifère rongeur aquatique de la famille des castoridés.",
+  "Nom latin": "Castor canadensis",
+  "Famille": "Castoridés",
+  "Taille": "100 à 135 cm queue comprise",
+  "Région": "Europe du nord et Eurasie",
+  "Habitat": "Le castor d’Europe vit le long des rivières, des ruisseaux, des lacs et des étangs.",
+  "Fun fact": "À l’exception des humains, le castor est l’un des seuls mammifères qui façonnent son environnement."
+},
+{
+  "_id": {
+    "$oid": "6613b823a330b86684c7ebc1"
+  },
+  "Espèce": "Chat",
+  "Description": "Le Chat sauvage4 (Felis silvestris) est une espèce de félins du genre Felis présent dans divers types d'habitats. Son aire de répartition couvre l’Europe, l’Asie occidentale et l’Afrique.",
+  "Nom latin": "Felis silvestris",
+  "Famille": "Félidés",
+  "Taille": "46 à 51 cm sans la queue",
+  "Région": "Amérique, Europe, Asie occidentale et Afrique",
+  "Habitat": "Le milieu de vie typique du Chat forestier d'Europe est caractérisé par les grands massifs forestiers (feuillus et forêts mixtes) de plaine, de colline, de basse et de moyenne montagne.",
+  "Fun fact": "Un chat ne peut pas voir directement sous son nez !"
+},
+{
+  "_id": {
+    "$oid": "6613b823a330b86684c7ebc2"
+  },
+  "Espèce": "Chien",
+  "Description": "Alors qu'on estimait autrefois que le Chien constituait une espèce à part entière (Canis canis ou encore Canis familiaris), les recherches génétiques contemporaines ont permis d'établir qu'il n'est que le résultat de la domestication du loup gris commun.",
+  "Nom latin": "Canis lupus familiaris",
+  "Famille": "Canidés",
+  "Taille": "15 à 110 cm avec la queue",
+  "Région": "Hémisphère nord",
+  "Habitat": "Son habitat naturel comprend les régions boisées, les prairies et les montagnes d'Europe, d'Asie et d'Amérique du Nord.",
+  "Fun fact": "L'empreinte de la truffe d'un chien est aussi unique que l'empreinte digitale chez les humains."
+},
+{
+  "_id": {
+    "$oid": "6613b823a330b86684c7ebc3"
+  },
+  "Espèce": "Coyote",
+  "Description": "Le coyote, également appelé le chacal américain, est un mammifère carnivore apparenté au loup gris (mais de taille plus petite), de la famille des canidés.",
+  "Nom latin": "Canis latrans",
+  "Famille": "Canidés",
+  "Taille": "70 à 120 cm",
+  "Région": "Amérique du nord, Amérique centrale",
+  "Habitat": "Le coyote vit dans les plaines, les prairies, les déserts, les régions boisées. On peut l’apercevoir également à la périphérie des villes.",
+  "Fun fact": "Animal social et parfois solitaire, le coyote vit le plus souvent en couple ou en meute familiale de plusieurs individus. Le coyote est un mammifère monogame."
+},
+{
+  "_id": {
+    "$oid": "6613b823a330b86684c7ebc4"
+  },
+  "Espèce": "Ecureuil",
+  "Description": "L’écureuil est un rongeur arboricole appartenant à l’ordre des rodentiens (rongeurs) et à la famille des sciuridés.",
+  "Nom latin": "Sciurus vulgaris",
+  "Famille": "Sciuridés",
+  "Taille": "20 à 25 cm",
+  "Région": "Eurasie (Europe, Asie Centrale)",
+  "Habitat": "Animal arboricole par excellence, l’écureuil roux vit dans les forêts de conifères (pins épicéas), les forêts de feuillus et les forêts mixtes.",
+  "Fun fact": "L'écureuil est l’un des rares mammifères à pouvoir distinguer les couleurs."
+},
+{
+  "_id": {
+    "$oid": "6613b823a330b86684c7ebc5"
+  },
+  "Espèce": "Lapin",
+  "Description": "Le lapin de garenne, appelé également le lapin sauvage, le lapin européen ou le lapin des bois, est un petit mammifère herbivore appartenant à l’ordre des lagomorphes et à la famille des léporidés.",
+  "Nom latin": "Oryctolagus cuniculus",
+  "Famille": "Léporidés",
+  "Taille": "34 à 50 cm",
+  "Région": "Europe et Afrique du Nord",
+  "Habitat": "Le lapin de garenne vit dans des milieux où les sols sont meubles et bien drainés pour y construire son terrier : les prairies, les forêts, les bosquets, les lisières de forêts, les landes, les garrigues, les bocages.",
+  "Fun fact": "Le lapin de garenne sauvage a été domestiqué par l’homme depuis le Moyen-âge et élevé pour sa viande et sa fourrure. A cette époque, le mammifère était élevé en semi-liberté dans des garennes (d’où son nom)."
+},
+{
+  "_id": {
+    "$oid": "6613b823a330b86684c7ebc6"
+  },
+  "Espèce": "Loup",
+  "Description": "Le loup gris commun, appelé également le loup européen ou le loup vulgaire, est un mammifère carnivore de la famille des canidés.",
+  "Nom latin": "Canis lupus lupus",
+  "Famille": "Canidés",
+  "Taille": "0,90 à 1,10 m pour les femelles ; 1 à 1,30 m pour les mâles",
+  "Région": "Eurasie ",
+  "Habitat": "Le loup gris commun vit dans les forêts tempérées, les massifs montagneux (Alpes), les plaines, les grandes steppes eurasiennes, les environnements escarpés et isolés.",
+  "Fun fact": "Les loups solitaires sont le plus souvent des loups qui ont été chassés de leur meute."
+},
+{
+  "_id": {
+    "$oid": "6613b823a330b86684c7ebc7"
+  },
+  "Espèce": "Lynx",
+  "Description": "Le lynx commun, appelé également le lynx boréal, le lynx d’Eurasie ou le loup-cervier, est un mammifère carnivore de la famille des félins.",
+  "Nom latin": "Lynx lynx",
+  "Famille": "Félinés",
+  "Taille": "75 à 135 cm",
+  "Région": "Eurasie ",
+  "Habitat": "L’espèce vit dans les forêts denses, les forêts boréales, les steppes, les zones montagneuses.",
+  "Fun fact": "L’expression « avoir un œil de lynx » vient du fait que ce félin a une vue excellente. Il peut repérer une proie de petite taille (lapin) à plus de 300 m, et une buse dans le ciel à 4 km."
+},
+{
+  "_id": {
+    "$oid": "6613b823a330b86684c7ebc8"
+  },
+  "Espèce": "Ours",
+  "Description": "L’ours brun est un mammifère omnivore de la famille des ursidés vivant en Amérique du Nord, en Europe et en Russie.",
+  "Nom latin": "Ursus arctos",
+  "Famille": "Ursidae",
+  "Taille": "1,5 m à 3,5 m debout sur ses postérieurs",
+  "Région": "Amérique du Nord, Europe, Russie, Asie",
+  "Habitat": "L’ours brun vit dans les forêts montagneuses, les zones semi ouvertes, à proximité des rivières.",
+  "Fun fact": "Les ours bruns passent l’hiver à hiverner dans des cavernes ou des grottes. Ils accumulent pendant l’été et l’automne une quantité de nourriture importante afin d’avoir assez de graisse pour pouvoir passer l’hiver sans se nourrir."
+},
+{
+  "_id": {
+    "$oid": "6613b823a330b86684c7ebc9"
+  },
+  "Espèce": "Puma",
+  "Description": "Le puma, appelé également le cougar ou le lion de montagne, est un grand mammifère carnivore de la famille des félins.",
+  "Nom latin": "Puma concolor",
+  "Famille": "Félidés",
+  "Taille": "1 à 2,30 m",
+  "Région": "Amérique du Nord et Amérique du Sud",
+  "Habitat": "Le puma vit dans les forêts, les prairies, les zones marécageuses.",
+  "Fun fact": "Le puma est un animal qui peut s’apprivoiser facilement. Certains fermiers en Argentine apprivoisent les félins et les laissent vivre en semi-liberté à la manière des chats."
+},
+{
+  "_id": {
+    "$oid": "6613b823a330b86684c7ebca"
+  },
+  "Espèce": "Rat",
+  "Description": "Le rat est un genre de gros Muridés originaires d'Asie dont deux espèces ont colonisé l'Europe et le reste du monde",
+  "Nom latin": "Rattus rattus",
+  "Famille": "Muridés",
+  "Taille": "11 à 28cm sans la queue",
+  "Région": "Monde entier",
+  "Habitat": "Il vit principalement dans les régions tempérées méditerranéennes où il peut trouver un habitat chaud et humide.",
+  "Fun fact": "L'Antarctique est le seul continent inhabité par les rats."
+},
+{
+  "_id": {
+    "$oid": "6613b823a330b86684c7ebcb"
+  },
+  "Espèce": "Raton laveur",
+  "Description": "Le raton laveur commun est un mammifère carnivore de la famille des procyonidés.",
+  "Nom latin": "Procyon lotor",
+  "Famille": "Procyonidae",
+  "Taille": "40 à 80 cm",
+  "Région": "Amérique du Nord, Amérique Centrale, Mexique, Europe, Moyen Orient, Japon",
+  "Habitat": "Le raton laveur vit dans les forêts, à proximité des cours d’eau et des marécages.",
+  "Fun fact": "Son surnom de « laveur«  proviendrait du fait qu’il lave ses proies ou ses aliments avant de les manger. Cette hypothèse s’avérerait fausse ; il s’agit simplement du fait qu’il évolue le long des cours d’eau et se nourrit de nombreuses espèces aquatiques."
+},
+{
+  "_id": {
+    "$oid": "6613b823a330b86684c7ebcc"
+  },
+  "Espèce": "Renard",
+  "Description": "Le renard roux, appelé également le renard commun ou le renard rouge, est un mammifère carnivore de la famille des canidés.",
+  "Nom latin": "Vulpes vulpes",
+  "Famille": "Canidés",
+  "Taille": "90 à 120 cm",
+  "Région": "Europe, Afrique du Nord, Moyen-Orient, Asie, Australie, Amérique du Nord",
+  "Habitat": "L’espèce vit dans les forêts, les champs, les prairies, les toundras, les steppes, les montagnes,",
+  "Fun fact": "Les renards utilisent le champ magnétique de la Terre comme un \"radar\" pour chasser."
+}]
